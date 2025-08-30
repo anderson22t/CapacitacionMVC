@@ -1,0 +1,16 @@
+C:\Users\Usuario Dell\Documents\Anderson 2\Universidad\Octavo Semestre\Analisis de Sistemas II\Capacitación MVC\CapacitacionMVC\Capacitación MVC\FormularioMVC\FormularioMVC\bin\Debug\FormularioMVC.exe.config
+C:\Users\Usuario Dell\Documents\Anderson 2\Universidad\Octavo Semestre\Analisis de Sistemas II\Capacitación MVC\CapacitacionMVC\Capacitación MVC\FormularioMVC\FormularioMVC\bin\Debug\FormularioMVC.exe
+C:\Users\Usuario Dell\Documents\Anderson 2\Universidad\Octavo Semestre\Analisis de Sistemas II\Capacitación MVC\CapacitacionMVC\Capacitación MVC\FormularioMVC\FormularioMVC\bin\Debug\FormularioMVC.pdb
+C:\Users\Usuario Dell\Documents\Anderson 2\Universidad\Octavo Semestre\Analisis de Sistemas II\Capacitación MVC\CapacitacionMVC\Capacitación MVC\FormularioMVC\FormularioMVC\bin\Debug\CapaVista.dll
+C:\Users\Usuario Dell\Documents\Anderson 2\Universidad\Octavo Semestre\Analisis de Sistemas II\Capacitación MVC\CapacitacionMVC\Capacitación MVC\FormularioMVC\FormularioMVC\bin\Debug\CapaControlador.dll
+C:\Users\Usuario Dell\Documents\Anderson 2\Universidad\Octavo Semestre\Analisis de Sistemas II\Capacitación MVC\CapacitacionMVC\Capacitación MVC\FormularioMVC\FormularioMVC\bin\Debug\CapaModelo.dll
+C:\Users\Usuario Dell\Documents\Anderson 2\Universidad\Octavo Semestre\Analisis de Sistemas II\Capacitación MVC\CapacitacionMVC\Capacitación MVC\FormularioMVC\FormularioMVC\bin\Debug\CapaVista.pdb
+C:\Users\Usuario Dell\Documents\Anderson 2\Universidad\Octavo Semestre\Analisis de Sistemas II\Capacitación MVC\CapacitacionMVC\Capacitación MVC\FormularioMVC\FormularioMVC\bin\Debug\CapaControlador.pdb
+C:\Users\Usuario Dell\Documents\Anderson 2\Universidad\Octavo Semestre\Analisis de Sistemas II\Capacitación MVC\CapacitacionMVC\Capacitación MVC\FormularioMVC\FormularioMVC\bin\Debug\CapaModelo.pdb
+C:\Users\Usuario Dell\Documents\Anderson 2\Universidad\Octavo Semestre\Analisis de Sistemas II\Capacitación MVC\CapacitacionMVC\Capacitación MVC\FormularioMVC\FormularioMVC\obj\Debug\FormularioMVC.csproj.AssemblyReference.cache
+C:\Users\Usuario Dell\Documents\Anderson 2\Universidad\Octavo Semestre\Analisis de Sistemas II\Capacitación MVC\CapacitacionMVC\Capacitación MVC\FormularioMVC\FormularioMVC\obj\Debug\FormularioMVC.Properties.Resources.resources
+C:\Users\Usuario Dell\Documents\Anderson 2\Universidad\Octavo Semestre\Analisis de Sistemas II\Capacitación MVC\CapacitacionMVC\Capacitación MVC\FormularioMVC\FormularioMVC\obj\Debug\FormularioMVC.csproj.GenerateResource.cache
+C:\Users\Usuario Dell\Documents\Anderson 2\Universidad\Octavo Semestre\Analisis de Sistemas II\Capacitación MVC\CapacitacionMVC\Capacitación MVC\FormularioMVC\FormularioMVC\obj\Debug\FormularioMVC.csproj.CoreCompileInputs.cache
+C:\Users\Usuario Dell\Documents\Anderson 2\Universidad\Octavo Semestre\Analisis de Sistemas II\Capacitación MVC\CapacitacionMVC\Capacitación MVC\FormularioMVC\FormularioMVC\obj\Debug\Formular.36BE1CF2.Up2Date
+C:\Users\Usuario Dell\Documents\Anderson 2\Universidad\Octavo Semestre\Analisis de Sistemas II\Capacitación MVC\CapacitacionMVC\Capacitación MVC\FormularioMVC\FormularioMVC\obj\Debug\FormularioMVC.exe
+C:\Users\Usuario Dell\Documents\Anderson 2\Universidad\Octavo Semestre\Analisis de Sistemas II\Capacitación MVC\CapacitacionMVC\Capacitación MVC\FormularioMVC\FormularioMVC\obj\Debug\FormularioMVC.pdb

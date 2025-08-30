@@ -1,0 +1,6 @@
+C:\Users\Usuario Dell\Documents\Anderson 2\Universidad\Octavo Semestre\Analisis de Sistemas II\Capacitación MVC\CapacitacionMVC\Capacitación MVC\CapaModelo\bin\Debug\CapaModelo.dll
+C:\Users\Usuario Dell\Documents\Anderson 2\Universidad\Octavo Semestre\Analisis de Sistemas II\Capacitación MVC\CapacitacionMVC\Capacitación MVC\CapaModelo\bin\Debug\CapaModelo.pdb
+C:\Users\Usuario Dell\Documents\Anderson 2\Universidad\Octavo Semestre\Analisis de Sistemas II\Capacitación MVC\CapacitacionMVC\Capacitación MVC\CapaModelo\obj\Debug\CapaModelo.csproj.AssemblyReference.cache
+C:\Users\Usuario Dell\Documents\Anderson 2\Universidad\Octavo Semestre\Analisis de Sistemas II\Capacitación MVC\CapacitacionMVC\Capacitación MVC\CapaModelo\obj\Debug\CapaModelo.csproj.CoreCompileInputs.cache
+C:\Users\Usuario Dell\Documents\Anderson 2\Universidad\Octavo Semestre\Analisis de Sistemas II\Capacitación MVC\CapacitacionMVC\Capacitación MVC\CapaModelo\obj\Debug\CapaModelo.dll
+C:\Users\Usuario Dell\Documents\Anderson 2\Universidad\Octavo Semestre\Analisis de Sistemas II\Capacitación MVC\CapacitacionMVC\Capacitación MVC\CapaModelo\obj\Debug\CapaModelo.pdb

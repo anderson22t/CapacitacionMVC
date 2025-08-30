@@ -1,0 +1,13 @@
+C:\Users\Usuario Dell\Documents\Anderson 2\Universidad\Octavo Semestre\Analisis de Sistemas II\Capacitación MVC\CapacitacionMVC\Capacitación MVC\CapaVista\bin\Debug\CapaVista.dll
+C:\Users\Usuario Dell\Documents\Anderson 2\Universidad\Octavo Semestre\Analisis de Sistemas II\Capacitación MVC\CapacitacionMVC\Capacitación MVC\CapaVista\bin\Debug\CapaVista.pdb
+C:\Users\Usuario Dell\Documents\Anderson 2\Universidad\Octavo Semestre\Analisis de Sistemas II\Capacitación MVC\CapacitacionMVC\Capacitación MVC\CapaVista\obj\Debug\CapaVista.csproj.AssemblyReference.cache
+C:\Users\Usuario Dell\Documents\Anderson 2\Universidad\Octavo Semestre\Analisis de Sistemas II\Capacitación MVC\CapacitacionMVC\Capacitación MVC\CapaVista\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
+C:\Users\Usuario Dell\Documents\Anderson 2\Universidad\Octavo Semestre\Analisis de Sistemas II\Capacitación MVC\CapacitacionMVC\Capacitación MVC\CapaVista\obj\Debug\CapaVista.dll
+C:\Users\Usuario Dell\Documents\Anderson 2\Universidad\Octavo Semestre\Analisis de Sistemas II\Capacitación MVC\CapacitacionMVC\Capacitación MVC\CapaVista\obj\Debug\CapaVista.pdb
+C:\Users\Usuario Dell\Documents\Anderson 2\Universidad\Octavo Semestre\Analisis de Sistemas II\Capacitación MVC\CapacitacionMVC\Capacitación MVC\CapaVista\obj\Debug\CapaVista.Consulta.resources
+C:\Users\Usuario Dell\Documents\Anderson 2\Universidad\Octavo Semestre\Analisis de Sistemas II\Capacitación MVC\CapacitacionMVC\Capacitación MVC\CapaVista\obj\Debug\CapaVista.csproj.GenerateResource.cache
+C:\Users\Usuario Dell\Documents\Anderson 2\Universidad\Octavo Semestre\Analisis de Sistemas II\Capacitación MVC\CapacitacionMVC\Capacitación MVC\CapaVista\bin\Debug\CapaControlador.dll
+C:\Users\Usuario Dell\Documents\Anderson 2\Universidad\Octavo Semestre\Analisis de Sistemas II\Capacitación MVC\CapacitacionMVC\Capacitación MVC\CapaVista\bin\Debug\CapaControlador.pdb
+C:\Users\Usuario Dell\Documents\Anderson 2\Universidad\Octavo Semestre\Analisis de Sistemas II\Capacitación MVC\CapacitacionMVC\Capacitación MVC\CapaVista\obj\Debug\CapaVista.csproj.Up2Date
+C:\Users\Usuario Dell\Documents\Anderson 2\Universidad\Octavo Semestre\Analisis de Sistemas II\Capacitación MVC\CapacitacionMVC\Capacitación MVC\CapaVista\bin\Debug\CapaModelo.dll
+C:\Users\Usuario Dell\Documents\Anderson 2\Universidad\Octavo Semestre\Analisis de Sistemas II\Capacitación MVC\CapacitacionMVC\Capacitación MVC\CapaVista\bin\Debug\CapaModelo.pdb

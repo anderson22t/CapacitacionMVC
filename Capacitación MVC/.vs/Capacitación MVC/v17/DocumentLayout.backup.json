@@ -1,0 +1,132 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario Dell\\Documents\\Anderson 2\\Universidad\\Octavo Semestre\\Analisis de Sistemas II\\Capacitaci\u00F3n MVC\\CapacitacionMVC\\Capacitaci\u00F3n MVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0EF771-9B22-4BAE-8D90-E0815BD7722F}|CapaVista\\CapaVista.csproj|c:\\users\\usuario dell\\documents\\anderson 2\\universidad\\octavo semestre\\analisis de sistemas ii\\capacitaci\u00F3n mvc\\capacitacionmvc\\capacitaci\u00F3n mvc\\capavista\\consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C0EF771-9B22-4BAE-8D90-E0815BD7722F}|CapaVista\\CapaVista.csproj|solutionrelative:capavista\\consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C0EF771-9B22-4BAE-8D90-E0815BD7722F}|CapaVista\\CapaVista.csproj|c:\\users\\usuario dell\\documents\\anderson 2\\universidad\\octavo semestre\\analisis de sistemas ii\\capacitaci\u00F3n mvc\\capacitacionmvc\\capacitaci\u00F3n mvc\\capavista\\consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6C0EF771-9B22-4BAE-8D90-E0815BD7722F}|CapaVista\\CapaVista.csproj|solutionrelative:capavista\\consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{946E72B4-D870-4C54-8277-B33287334F51}|CapaControlador\\CapaControlador.csproj|c:\\users\\usuario dell\\documents\\anderson 2\\universidad\\octavo semestre\\analisis de sistemas ii\\capacitaci\u00F3n mvc\\capacitacionmvc\\capacitaci\u00F3n mvc\\capacontrolador\\controlador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{946E72B4-D870-4C54-8277-B33287334F51}|CapaControlador\\CapaControlador.csproj|solutionrelative:capacontrolador\\controlador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A173AC22-E8D6-4C71-89A2-A9E8B90710D7}|CapaModelo\\CapaModelo.csproj|c:\\users\\usuario dell\\documents\\anderson 2\\universidad\\octavo semestre\\analisis de sistemas ii\\capacitaci\u00F3n mvc\\capacitacionmvc\\capacitaci\u00F3n mvc\\capamodelo\\sentencias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A173AC22-E8D6-4C71-89A2-A9E8B90710D7}|CapaModelo\\CapaModelo.csproj|solutionrelative:capamodelo\\sentencias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A173AC22-E8D6-4C71-89A2-A9E8B90710D7}|CapaModelo\\CapaModelo.csproj|c:\\users\\usuario dell\\documents\\anderson 2\\universidad\\octavo semestre\\analisis de sistemas ii\\capacitaci\u00F3n mvc\\capacitacionmvc\\capacitaci\u00F3n mvc\\capamodelo\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A173AC22-E8D6-4C71-89A2-A9E8B90710D7}|CapaModelo\\CapaModelo.csproj|solutionrelative:capamodelo\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Consulta.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario Dell\\Documents\\Anderson 2\\Universidad\\Octavo Semestre\\Analisis de Sistemas II\\Capacitaci\u00F3n MVC\\CapacitacionMVC\\Capacitaci\u00F3n MVC\\CapaVista\\Consulta.cs",
+              "RelativeDocumentMoniker": "CapaVista\\Consulta.cs",
+              "ToolTip": "C:\\Users\\Usuario Dell\\Documents\\Anderson 2\\Universidad\\Octavo Semestre\\Analisis de Sistemas II\\Capacitaci\u00F3n MVC\\CapacitacionMVC\\Capacitaci\u00F3n MVC\\CapaVista\\Consulta.cs",
+              "RelativeToolTip": "CapaVista\\Consulta.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T23:21:47.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario Dell\\Documents\\Anderson 2\\Universidad\\Octavo Semestre\\Analisis de Sistemas II\\Capacitaci\u00F3n MVC\\CapacitacionMVC\\Capacitaci\u00F3n MVC\\CapaModelo\\Conexion.cs",
+              "RelativeDocumentMoniker": "CapaModelo\\Conexion.cs",
+              "ToolTip": "C:\\Users\\Usuario Dell\\Documents\\Anderson 2\\Universidad\\Octavo Semestre\\Analisis de Sistemas II\\Capacitaci\u00F3n MVC\\CapacitacionMVC\\Capacitaci\u00F3n MVC\\CapaModelo\\Conexion.cs",
+              "RelativeToolTip": "CapaModelo\\Conexion.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwCUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T23:08:51.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Sentencias.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario Dell\\Documents\\Anderson 2\\Universidad\\Octavo Semestre\\Analisis de Sistemas II\\Capacitaci\u00F3n MVC\\CapacitacionMVC\\Capacitaci\u00F3n MVC\\CapaModelo\\Sentencias.cs",
+              "RelativeDocumentMoniker": "CapaModelo\\Sentencias.cs",
+              "ToolTip": "C:\\Users\\Usuario Dell\\Documents\\Anderson 2\\Universidad\\Octavo Semestre\\Analisis de Sistemas II\\Capacitaci\u00F3n MVC\\CapacitacionMVC\\Capacitaci\u00F3n MVC\\CapaModelo\\Sentencias.cs",
+              "RelativeToolTip": "CapaModelo\\Sentencias.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T23:07:13.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Controlador.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario Dell\\Documents\\Anderson 2\\Universidad\\Octavo Semestre\\Analisis de Sistemas II\\Capacitaci\u00F3n MVC\\CapacitacionMVC\\Capacitaci\u00F3n MVC\\CapaControlador\\Controlador.cs",
+              "RelativeDocumentMoniker": "CapaControlador\\Controlador.cs",
+              "ToolTip": "C:\\Users\\Usuario Dell\\Documents\\Anderson 2\\Universidad\\Octavo Semestre\\Analisis de Sistemas II\\Capacitaci\u00F3n MVC\\CapacitacionMVC\\Capacitaci\u00F3n MVC\\CapaControlador\\Controlador.cs",
+              "RelativeToolTip": "CapaControlador\\Controlador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T23:05:57.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Consulta.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Usuario Dell\\Documents\\Anderson 2\\Universidad\\Octavo Semestre\\Analisis de Sistemas II\\Capacitaci\u00F3n MVC\\CapacitacionMVC\\Capacitaci\u00F3n MVC\\CapaVista\\Consulta.cs",
+              "RelativeDocumentMoniker": "CapaVista\\Consulta.cs",
+              "ToolTip": "C:\\Users\\Usuario Dell\\Documents\\Anderson 2\\Universidad\\Octavo Semestre\\Analisis de Sistemas II\\Capacitaci\u00F3n MVC\\CapacitacionMVC\\Capacitaci\u00F3n MVC\\CapaVista\\Consulta.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaVista\\Consulta.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T23:02:22.738Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

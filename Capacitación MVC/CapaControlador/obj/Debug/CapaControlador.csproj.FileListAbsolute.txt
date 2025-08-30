@@ -1,0 +1,9 @@
+C:\Users\Usuario Dell\Documents\Anderson 2\Universidad\Octavo Semestre\Analisis de Sistemas II\Capacitación MVC\CapacitacionMVC\Capacitación MVC\CapaControlador\bin\Debug\CapaControlador.dll
+C:\Users\Usuario Dell\Documents\Anderson 2\Universidad\Octavo Semestre\Analisis de Sistemas II\Capacitación MVC\CapacitacionMVC\Capacitación MVC\CapaControlador\bin\Debug\CapaControlador.pdb
+C:\Users\Usuario Dell\Documents\Anderson 2\Universidad\Octavo Semestre\Analisis de Sistemas II\Capacitación MVC\CapacitacionMVC\Capacitación MVC\CapaControlador\obj\Debug\CapaControlador.csproj.AssemblyReference.cache
+C:\Users\Usuario Dell\Documents\Anderson 2\Universidad\Octavo Semestre\Analisis de Sistemas II\Capacitación MVC\CapacitacionMVC\Capacitación MVC\CapaControlador\obj\Debug\CapaControlador.csproj.CoreCompileInputs.cache
+C:\Users\Usuario Dell\Documents\Anderson 2\Universidad\Octavo Semestre\Analisis de Sistemas II\Capacitación MVC\CapacitacionMVC\Capacitación MVC\CapaControlador\obj\Debug\CapaControlador.dll
+C:\Users\Usuario Dell\Documents\Anderson 2\Universidad\Octavo Semestre\Analisis de Sistemas II\Capacitación MVC\CapacitacionMVC\Capacitación MVC\CapaControlador\obj\Debug\CapaControlador.pdb
+C:\Users\Usuario Dell\Documents\Anderson 2\Universidad\Octavo Semestre\Analisis de Sistemas II\Capacitación MVC\CapacitacionMVC\Capacitación MVC\CapaControlador\bin\Debug\CapaModelo.dll
+C:\Users\Usuario Dell\Documents\Anderson 2\Universidad\Octavo Semestre\Analisis de Sistemas II\Capacitación MVC\CapacitacionMVC\Capacitación MVC\CapaControlador\bin\Debug\CapaModelo.pdb
+C:\Users\Usuario Dell\Documents\Anderson 2\Universidad\Octavo Semestre\Analisis de Sistemas II\Capacitación MVC\CapacitacionMVC\Capacitación MVC\CapaControlador\obj\Debug\CapaCont.E79CC33A.Up2Date
